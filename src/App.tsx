@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1>Login</h1>
       <input type={"text"} placeholder={"email"}/>
-        <h1>profile</h1>
+        <h2>profile</h2>
         <img src={'sdf'} alt={'sdf'}/>
     </div>
   );
